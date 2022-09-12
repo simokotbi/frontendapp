@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+ 
 
 @Component({
   selector: 'app-loguin',
@@ -11,5 +12,7 @@ export class LoguinComponent implements OnInit {
 
   ngOnInit(): void {
   }
-
+  
+   
+  
 }

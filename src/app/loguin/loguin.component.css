@@ -1,6 +1,8 @@
 .main-div mat-card{
-  padding: 0;
+  padding: 0 auto;
+
 }
 .loguin-form{
   padding: 20px;
+ 
 }
